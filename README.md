@@ -20,9 +20,9 @@
 <h2 align="center">📂 Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/quxqy/contract-renewal-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quxqy&repo=contract-renewal-analytics&bg_color=0d1117&title_color=8fb3de&text_color=c9d1d9&icon_color=6f9fd8&border_color=30363d&v=2"/></a>
-  <a href="https://github.com/quxqy/insurance-risk-segmentation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quxqy&repo=insurance-risk-segmentation&bg_color=0d1117&title_color=8fb3de&text_color=c9d1d9&icon_color=6f9fd8&border_color=30363d&v=2"/></a>
-  <a href="https://github.com/quxqy/resource_manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quxqy&repo=resource_manager&bg_color=0d1117&title_color=8fb3de&text_color=c9d1d9&icon_color=6f9fd8&border_color=30363d&v=2"/></a>
+  <a href="https://github.com/nikita-product/contract-renewal-analytics"><img src="assets/proj_renewal.svg" width="49%" alt="contract-renewal-analytics"/></a>
+  <a href="https://github.com/nikita-product/insurance-risk-segmentation"><img src="assets/proj_insurance.svg" width="49%" alt="insurance-risk-segmentation"/></a>
+  <a href="https://github.com/nikita-product/resource_manager"><img src="assets/proj_resource.svg" width="49%" alt="resource_manager"/></a>
 </p>
 
 <h2 align="center">👤 About me</h2>
